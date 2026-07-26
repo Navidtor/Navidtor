@@ -119,6 +119,8 @@
 
 *hand-drawn & animated in raw SVG — no generators, no templates.*
 
+🐾 *Fun fact: a cat sleeps 16 hours a day — exactly the schedule of a night-owl developer, just shifted by 12 hours. We coexist in perfect asymmetry.*
+
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
