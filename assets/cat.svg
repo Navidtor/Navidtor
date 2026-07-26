@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 270">
+  <!-- tail -->
+  <path d="M300 210 q60 -10 55 -70 q-3 -30 -25 -35" fill="none" stroke="#00ff41" stroke-width="14" stroke-linecap="round">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="M300 210 q60 -10 55 -70 q-3 -30 -25 -35;
+              M300 210 q75 -5 60 -80 q-5 -25 -30 -28;
+              M300 210 q60 -10 55 -70 q-3 -30 -25 -35"/>
+  </path>
+  <!-- body -->
+  <ellipse cx="240" cy="195" rx="85" ry="55" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <!-- head -->
+  <circle cx="165" cy="120" r="52" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <!-- ears -->
+  <path d="M128 88 l-12 -34 l32 16 z" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <path d="M202 88 l12 -34 l-32 16 z" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <!-- eyes (blinking) -->
+  <g fill="#00ff41">
+    <ellipse cx="147" cy="118" rx="7" ry="9">
+      <animate attributeName="ry" values="9;9;1;9;9" keyTimes="0;0.45;0.5;0.55;1" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="185" cy="118" rx="7" ry="9">
+      <animate attributeName="ry" values="9;9;1;9;9" keyTimes="0;0.45;0.5;0.55;1" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <!-- nose -->
+  <path d="M163 135 l6 5 l-6 5 l-6 -5 z" fill="#00ff41"/>
+  <!-- whiskers -->
+  <g stroke="#00ff41" stroke-width="1.5" opacity="0.7">
+    <line x1="120" y1="132" x2="90" y2="128"/>
+    <line x1="120" y1="140" x2="92" y2="144"/>
+    <line x1="210" y1="132" x2="240" y2="128"/>
+    <line x1="210" y1="140" x2="238" y2="144"/>
+  </g>
+  <!-- front paws -->
+  <ellipse cx="185" cy="243" rx="20" ry="9" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <ellipse cx="235" cy="246" rx="20" ry="9" fill="#161b22" stroke="#00ff41" stroke-width="2"/>
+  <!-- terminal caption -->
+  <text x="220" y="266" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#00ff41">$ ssh cat@github — permission denied (purr required)<tspan> ▊<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
