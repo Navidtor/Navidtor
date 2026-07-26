@@ -7,6 +7,8 @@
 
 **— walking the cultivation path, one refined Gu at a time 🤍**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=root+is+not+given+%E2%80%94+it+is+taken;every+packet+tells+a+story+if+you+listen;sudo+cultivate+--until+immortal;the+firewall+is+just+another+heavenly+tribulation" alt="typing intro" />
+
 <img src="https://komarev.com/ghpvc/?username=Navidtor&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
 <img src="https://img.shields.io/badge/Chronotype-Night%20Owl%20%F0%9F%8C%99-0d1117?style=flat-square" alt="Night owl" />
@@ -74,7 +76,28 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Navidtor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="GitHub stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navidtor&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
+
+## 🏆 Trophy Pavilion — Relics of Past Tribulations
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Navidtor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
+
+## 📜 Recent Deeds — Mission Log
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*Auto-inscribed by a shadow clone every 6 hours.*
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
