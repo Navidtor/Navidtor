@@ -3,14 +3,14 @@
 
 <img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/banner.svg" alt="banner" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=root+is+not+given+%E2%80%94+it+is+taken;every+packet+tells+a+story+if+you+listen" alt="typing intro" />
+</p>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=root+is+not+given+%E2%80%94+it+is+taken;every+packet+tells+a+story+if+you+listen" alt="typing intro" />
-
-<img src="https://komarev.com/ghpvc/?username=Navidtor&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Navidtor&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
+</p>
 
 <img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" />
 
