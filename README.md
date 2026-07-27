@@ -94,7 +94,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*Auto-inscribed by a shadow clone every 6 hours.*
+*Auto-inscribed by a shadow clone.*
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
