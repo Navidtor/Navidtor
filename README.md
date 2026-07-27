@@ -40,12 +40,12 @@
 
 ## 🧪 Currently Learning
 
-|  |  |
+| Skill | Focus |
 |---|---|
-| 🐧 **Linux Internals Gu** | living in the terminal, system hardening |
-| 🌐 **Packet Sight Gu** | TCP/IP, DNS, QUIC — traffic analysis with Wireshark |
-| 🛠️ **Tool Mastery Gu** | Nmap, Burp Suite, Metasploit fundamentals |
-| 🏴‍☠️ **Battle Experience Gu** | CTF wargames & vulnerable-by-design labs |
+| 🐧 **Linux Internals ** | living in the terminal, system hardening |
+| 🌐 **Packet Sight ** | TCP/IP, DNS, QUIC — traffic analysis with Wireshark |
+| 🛠️ **Tool Mastery ** | Nmap, Burp Suite, Metasploit fundamentals |
+| 🏴‍☠️ **Battle Experience ** | CTF wargames & vulnerable-by-design labs |
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
