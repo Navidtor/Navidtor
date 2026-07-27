@@ -19,5 +19,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "\ud83d\udcdc Update recent deeds"
+          COMMIT_MSG: "docs: update recent deeds"
           MAX_LINES: 8
