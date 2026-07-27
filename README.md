@@ -9,8 +9,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Navidtor&label=visitors&color=00ff41&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-00ff41?style=flat-square&logo=hackaday&logoColor=black" alt="Focus" />
-<img src="https://img.shields.io/badge/Chronotype-Night%20Owl%20%F0%9F%8C%99-0d1117?style=flat-square" alt="Night owl" />
-<img src="https://img.shields.io/badge/Sidekick-Cat%20%F0%9F%90%BE-00ff41?style=flat-square" alt="Cat" />
+
+
 
 <img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" />
 
@@ -20,28 +20,27 @@
 
 - 🎓 **Computer Engineering student** on a training arc toward **cybersecurity**
 - 🔎 Nature affinities: **network security**, **protocol analysis** (TCP/UDP · DNS · QUIC · TLS), **penetration testing**
-- 🕸️ I like knowing exactly what every packet on the wire is doing — and why
 - 🌙 **Night owl** — my best commits happen after midnight, when the village sleeps
 - ☕ Chakra source: coffee. Willpower source: five hundred years of patience
 - 🐈‍⬛ Trained under a cat — discipline is non-negotiable
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
-## ⚔️ Zanpakutō & Jutsu — The Arsenal
+## ⚔️ Jutsu — The Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,react,tailwind,nodejs,mysql,bash,linux,git,github,wireshark,vscode&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,react,tailwind,nodejs,mysql,bash,linux,git,github,vscode&perline=8" alt="Tech stack" />
 
-*Shikai released. Bankai still in training. (VHDL not pictured — some jutsu are forged directly into silicon.)*
+*Bankai still in training.*
 
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
-## 🧪 Gu Refinement in Progress — Currently Learning
+## 🧪 Currently Learning
 
-| Gu Being Refined | Essence |
+|  |  |
 |---|---|
 | 🐧 **Linux Internals Gu** | living in the terminal, system hardening |
 | 🌐 **Packet Sight Gu** | TCP/IP, DNS, QUIC — traffic analysis with Wireshark |
@@ -109,24 +108,12 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Navidtor/Navidtor/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-*Manda devours my commits so the cat doesn't have to.*
+*Snake devours my commits so the cat doesn't have to.*
 
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
-## 🗺️ Cultivation Path — From Mortal to Immortal
-
-| Rank | Milestone | Status |
-|---|---|---|
-| **Rank 1 · Initiate** | Begin Computer Engineering degree | ✅ Attained |
-| **Rank 2 · Apprentice** | First artifacts forged — OS scheduler, FPGA game, full-stack platforms | ✅ Attained |
-| **Rank 3 · Adept** | Security foundations — Linux, networking, packet analysis, labs | 🔥 Cultivating now |
-| **Rank 4 · Master** | First certification (eJPT) & CTF competitions | ⏳ Next tribulation |
-| **Rank 5 · Grandmaster** | OSCP & deep offensive security | ⏳ On the horizon |
-| **Immortal Ascension** | Offensive security / network defense career, open-source contributions | 🎯 The eternal pursuit |
-
-<div align="center"><img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/divider.svg" alt="" width="100%" /></div>
 
 ## 🐱 The Two-Tailed Companion
 
@@ -134,13 +121,9 @@
 
 <img src="https://raw.githubusercontent.com/Navidtor/Navidtor/main/assets/cat.svg" alt="my code reviewer — live, animated, judging" width="440" />
 
-<img src="https://img.shields.io/badge/cat.exe-purring%20on%20port%2022-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="cat status" />
 
 *my code reviewer. approves nothing. sits on everything.*
 
-*hand-drawn & animated in raw SVG — no generators, no templates.*
-
-🐾 *Fun fact: a cat sleeps 16 hours a day — exactly the schedule of a night-owl developer, just shifted by 12 hours. We coexist in perfect asymmetry.*
 
 </div>
 
@@ -150,12 +133,11 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-yuy36870%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuy36870@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amir0480048012%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir0480048012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Navidtor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navidtor)
 
 <br>
 
-*「In this world, the truth is written by those who refine themselves relentlessly.」*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,100:0d1117&section=footer" alt="footer" />
 
