@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Navidtor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&v=2" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-phi-ten.vercel.app/?username=Navidtor&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&v=3" alt="GitHub trophies" />
 
 </div>
 
