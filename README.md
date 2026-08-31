@@ -71,9 +71,9 @@
 
 <img src="https://streak-stats.demolab.com?user=Navidtor&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Navidtor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&v=2" alt="GitHub stats" />
+<img src="https://github-readme-stats-black-tau-20.vercel.app/api?username=Navidtor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&v=3" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navidtor&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&v=2" alt="Top languages" />
+<img src="https://github-readme-stats-black-tau-20.vercel.app/api/top-langs/?username=Navidtor&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&v=3" alt="Top languages" />
 
 </div>
 
