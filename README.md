@@ -92,6 +92,8 @@
 ## 📜 Recent Deeds — Mission Log
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Navidtor/Navidtor/pull/1) in [Navidtor/Navidtor](https://github.com/Navidtor/Navidtor)
+2. 💪 Opened PR [#1](https://github.com/Navidtor/Navidtor/pull/1) in [Navidtor/Navidtor](https://github.com/Navidtor/Navidtor)
 <!--END_SECTION:activity-->
 
 *Auto-inscribed by a shadow clone.*
